@@ -1,0 +1,5 @@
+/* custom style for body right */
+.body-right-height {
+    height: 405px;
+    overflow-y: scroll;
+}
